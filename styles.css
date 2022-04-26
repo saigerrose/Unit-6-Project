@@ -1,0 +1,60 @@
+body {
+    color: white;
+    text-align: center;
+    font-family: 'Staatliches', sans-serif;
+}
+
+.title {
+    font-size: 40px;
+    background-color: pink;
+    font-weight: 800;
+    padding: 0 20px;
+    border: beige dashed 7px;
+}
+
+.button {
+    display: flex;
+    justify-content: center;
+}
+
+p {
+    font-size: 30px;
+    font-weight: 800;
+}
+
+
+.firstImage {
+    height: 350px;
+    padding: 30px;
+}
+
+.start-button {
+    height: 40px;
+}
+
+/* Check out `display:none`. What do you think it does?*/
+.treasure {
+    display: none;
+    font-family: 'Coiny', cursive;
+}
+
+.treasure-img {
+    height: 300px;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.ggitzy {
+    width: 350px;
+    padding: 10px;
+}
+
+.start-tt,
+.start-bts{
+    width: 300px;
+    padding: 10px;
+    margin: 17px;
+    border: grey dashed 3px;
+}
